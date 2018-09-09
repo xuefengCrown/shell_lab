@@ -1,0 +1,6 @@
+
+./runtrace -h
+
+./runtrace -f trace05.txt -s ./tshref
+
+./runtrace -f trace05.txt -s ./tsh
